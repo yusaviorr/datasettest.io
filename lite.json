@@ -1,1 +1,9 @@
-
+{
+  "nodes": [
+    {"id": "Familiar"},
+    {"id": "Cãlin Peter Netzer"},
+  ],
+   "links": [
+     {"source": "Familiar", "target": "Cãlin Peter Netzer", "value": 1},
+   ]
+}
