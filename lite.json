@@ -3,7 +3,7 @@
     {"id": "Familiar"},
     {"id": "Calin Peter Netzer"}
   ],
-   "links": [
-     {"source": "Familiar", "target": "Calin Peter Netzer", "value": 1}
-   ]
+  "links": [
+    {"source": "Familiar", "target": "Calin Peter Netzer", "value": 1}
+  ]
 }
