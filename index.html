@@ -15,9 +15,8 @@
     const Graph = ForceGraph3D()
       (document.getElementById('3d-graph'))
         .backgroundColor('#000003')
-        .jsonUrl('../datasets/caca.json')
+        .jsonUrl('caca.json')
         .nodeLabel('id')
-        .nodeAutoColorBy('group');
 
     const bloomPass = new UnrealBloomPass();
     bloomPass.strength = 4;
